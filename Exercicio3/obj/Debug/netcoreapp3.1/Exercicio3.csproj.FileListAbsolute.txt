@@ -1,0 +1,13 @@
+/home/felipe/Desktop/Prova Tecnica GFT/Exercicio3/bin/Debug/netcoreapp3.1/Exercicio3
+/home/felipe/Desktop/Prova Tecnica GFT/Exercicio3/bin/Debug/netcoreapp3.1/Exercicio3.deps.json
+/home/felipe/Desktop/Prova Tecnica GFT/Exercicio3/bin/Debug/netcoreapp3.1/Exercicio3.runtimeconfig.json
+/home/felipe/Desktop/Prova Tecnica GFT/Exercicio3/bin/Debug/netcoreapp3.1/Exercicio3.runtimeconfig.dev.json
+/home/felipe/Desktop/Prova Tecnica GFT/Exercicio3/bin/Debug/netcoreapp3.1/Exercicio3.dll
+/home/felipe/Desktop/Prova Tecnica GFT/Exercicio3/bin/Debug/netcoreapp3.1/Exercicio3.pdb
+/home/felipe/Desktop/Prova Tecnica GFT/Exercicio3/obj/Debug/netcoreapp3.1/Exercicio3.csprojAssemblyReference.cache
+/home/felipe/Desktop/Prova Tecnica GFT/Exercicio3/obj/Debug/netcoreapp3.1/Exercicio3.AssemblyInfoInputs.cache
+/home/felipe/Desktop/Prova Tecnica GFT/Exercicio3/obj/Debug/netcoreapp3.1/Exercicio3.AssemblyInfo.cs
+/home/felipe/Desktop/Prova Tecnica GFT/Exercicio3/obj/Debug/netcoreapp3.1/Exercicio3.csproj.CoreCompileInputs.cache
+/home/felipe/Desktop/Prova Tecnica GFT/Exercicio3/obj/Debug/netcoreapp3.1/Exercicio3.dll
+/home/felipe/Desktop/Prova Tecnica GFT/Exercicio3/obj/Debug/netcoreapp3.1/Exercicio3.pdb
+/home/felipe/Desktop/Prova Tecnica GFT/Exercicio3/obj/Debug/netcoreapp3.1/Exercicio3.genruntimeconfig.cache
