@@ -2,7 +2,7 @@ using System;
 
 class InvestimentoSemIR : Investimento
 {
-    public InvestimentoSemIR(float valor, double juros): base(valor, juros)
+    public InvestimentoSemIR( double juros): base( juros)
     {}
 
     public override double CalculaLucro(int meses)
@@ -11,7 +11,7 @@ class InvestimentoSemIR : Investimento
         double jurosPlusOne = (this._jurosMensais/100) + 1;
         double jurosFinal = 1;
 
-        if (this._valorInicial < 1000)
+        if (this._valorInicial < 999)
         {
             Console.WriteLine("O valor inicial não pode ser menor que R$1000");
             return 0;

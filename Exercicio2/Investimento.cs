@@ -1,21 +1,21 @@
 using System;
+class Investimento{
+    protected float _valorInicial;
+    protected double _jurosMensais;
+    public Investimento(double juros){
+         this._jurosMensais = juros;
+    }
 
-class InvestimentoSemIR : Investimento
-{
-    public InvestimentoSemIR(float valor, double juros): base(valor, juros)
-    {}
+    public void setValor(float valor)
+    {
+        this._valorInicial = valor;
+    }
 
-    public override double CalculaLucro(int meses)
+    public virtual double CalculaLucro(int meses)
     {
         double retorno;
         double jurosPlusOne = (this._jurosMensais/100) + 1;
         double jurosFinal = 1;
-
-        if (this._valorInicial < 1000)
-        {
-            Console.WriteLine("O valor inicial não pode ser menor que R$1000");
-            return 0;
-        }
 
         if (meses <= 0)
         {
@@ -28,7 +28,6 @@ class InvestimentoSemIR : Investimento
 
 
         retorno = (this._valorInicial * jurosFinal) - this._valorInicial;
-
         return retorno;
     }
 }
